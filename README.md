@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Soren S' Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/sordawg-jpg/ProgrammingPort2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
